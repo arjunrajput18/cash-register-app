@@ -24,6 +24,7 @@ button{
     padding: 0.5rem 1rem;
     margin-top: 1rem;
     border-radius: 1rem 1rem;
+    color: white;
    
 }
 
@@ -45,6 +46,7 @@ input {
     border: 1px solid black ;
     border-collapse: collapse;
     width: 450px;
+    color: grey
   }
 
   .table-data{
